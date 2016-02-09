@@ -5,20 +5,20 @@ Test secure login
 
 Created a simple PHP secure login.
 
-Config files
--databaseInfo.php
--siteInfo.php
+<b>Config files<b>
+* databaseInfo.php
+* siteInfo.php
 
-Backend files
--authentication.php
--database.php
--databaseQuery.php
--users.php
+<b>Backend files<b>
+* authentication.php
+* database.php
+* databaseQuery.php
+* users.php
 
-Model
--UserModel.php
+<b>Model<b>
+* UserModel.php
 
-Frontend files
--index.php
--login.php
--pages.php
+<b>Frontend files<b>
+* index.php
+* login.php
+* pages.php
