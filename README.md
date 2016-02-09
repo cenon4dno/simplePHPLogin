@@ -6,19 +6,19 @@ Test secure login
 Created a simple PHP secure login.
 
 Config files
-databaseInfo.php
-siteInfo.php
+-databaseInfo.php
+-siteInfo.php
 
 Backend files
-authentication.php
-database.php
-databaseQuery.php
-users.php
+-authentication.php
+-database.php
+-databaseQuery.php
+-users.php
 
 Model
-UserModel.php
+-UserModel.php
 
 Frontend files
-index.php
-login.php
-pages.php
+-index.php
+-login.php
+-pages.php
